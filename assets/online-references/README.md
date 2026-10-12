@@ -1,25 +1,20 @@
-# Real Fan-Art Gallery & References
+# Fan-Art Gallery — Twixxel_lesgo & ThatMob
 
 ## Twixxel_lesgo
 
-![Twixxel_lesgo fan art by Hakkia](https://cdn.ibispaint.com/movie/508/554/508554520/image508554520.png)
+![Twixxel_lesgo fan character reference by ashey4rtz](https://64.media.tumblr.com/1ee87f7661373b7534e89516375c3253/67c000b837ba6ab8-f3/s540x810/d469f6e0fa69da3813915f1bdfa84c88ac72e2ae.pnj)
 
-**Artist:** Hakkia — [original artwork on ibisPaint](https://ibispaint.com/art/508554520/).
+Artist: **ashey4rtz** — [browse the original community post listing](https://www.tumgik.com/tag/twixxel%20lesgo%20design).
 
 ## ThatMob
 
-![ThatMob fan art by justCamelia](https://cdn.ibispaint.com/movie/853/156/853156362/image853156362.png)
+![ThatMob fan character reference by ashey4rtz](https://64.media.tumblr.com/444f54cd8a9f7904fe930fb8ad4064c8/67c000b837ba6ab8-6e/s540x810/58f971c9d6f5dbedb9a1f973836aa89ea856b3b4.pnj)
 
-**Artist:** justCamelia (@camelianadine_i) — [original artwork on ibisPaint](https://ibispaint.com/art/853156362/).
+Artist: **ashey4rtz** — [browse the original community post listing](https://www.tumgik.com/tag/twixxel%20lesgo%20design).
 
-## Twixxel + ThatMob
+## Explore more
 
-[Fan art featuring both creators by JSTKiraaxx on Tenor](https://tenor.com/view/thatmob-and-twixxel-lesgo-twixxel-thatmob-minecraft-gif-4833719282651752753).
+- [Twixxel Lesgo fan art](https://www.tumgik.com/tag/Twixxel%20Lesgo)
+- [Twixxel character designs](https://www.tumgik.com/tag/twixxel%20lesgo%20design)
 
-## Additional fan art
-
-- [Twixxel fan-art video by Kayleesheshx on YouTube](https://www.youtube.com/watch?v=oq_yFwDymzw)
-- [More Twixxel fan art by Magnetic_pug11 on ibisPaint](https://ibispaint.com/art/865344521/)
-- [More ThatMob fan art by justCamelia on ibisPaint](https://ibispaint.com/art/853156362/)
-
-**Credits and rights:** These images are embedded from the artists' original hosting platform, not copied into this repository. Fan art is unofficial; the artists retain all rights. Follow each source's terms before reuse or redistribution.
+**Credits and rights:** These are unofficial fan designs. Images are embedded from Tumblr's media host, not copied into this repository. Artists retain ownership; check source terms before reusing.
