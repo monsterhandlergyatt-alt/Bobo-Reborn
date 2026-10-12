@@ -1,10 +1,10 @@
 # Character Guide
 
-The previous placeholder portraits have been removed. This gallery now uses fan-made character reference art for the two creators requested:
+The gallery features updated fan character reference sheets by **ashey4rtz** for:
 
-- **Twixxel_lesgo** — fan design by ashey4rtz
-- **ThatMob** — fan design by ashey4rtz
+- **Twixxel_lesgo**
+- **ThatMob**
 
-See the [embedded fan-art gallery](../assets/characters/README.md) and the [original community post listing](https://www.tumgik.com/tag/twixxel%20lesgo%20design).
+Open the [fan-art gallery](../assets/characters/README.md) to view both embedded images and source credits. The artist describes these as fan designs, not official character sheets.
 
-These are fan interpretations, not official character sheets. The artists retain all rights to their work. Other Bobo Reborn characters are currently left without placeholder portraits rather than filled with unrelated images.
+Other Bobo Reborn characters are left without invented placeholder portraits until suitable references are available.
