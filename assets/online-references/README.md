@@ -2,9 +2,7 @@
 
 ## Twixxel_lesgo
 
-![Twixxel_lesgo fan art by Hakkia](https://cdn.ibispaint.com/movie/508/554/508554520/image508554520.png)
-
-[Original artwork and artist credit](https://ibispaint.com/art/508554520/)
+Preferred visual reference: [watch @keksek7771's Twixxel video on TikTok](https://www.tiktok.com/@keksek7771/video/7683602487219211538).
 
 ## ThatMob
 
@@ -14,4 +12,4 @@
 
 More: [Twixxel fan art](https://www.tumgik.com/tag/Twixxel%20Lesgo) · [ThatMob fan art](https://www.tumgik.com/tag/thatmob)
 
-All artwork remains the property of its respective artist.
+All media remains the property of its respective creator.

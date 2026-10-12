@@ -1,14 +1,14 @@
 # Twixxel_lesgo & ThatMob — Fan-Art Gallery
 
-**These are standalone fan-art illustrations, not reference sheets.** I picked individual drawings so the gallery can focus on how the characters look in actual artwork.
+## Twixxel_lesgo
 
-## Twixxel_lesgo — illustration by Hakkia
+The preferred Twixxel reference is this TikTok video from **@keksek7771**:
 
-![Twixxel_lesgo fan art by Hakkia](https://cdn.ibispaint.com/movie/508/554/508554520/image508554520.png)
+[**Watch the Twixxel video on TikTok**](https://www.tiktok.com/@keksek7771/video/7683602487219211538)
 
-[View the original artwork on ibisPaint](https://ibispaint.com/art/508554520/)
+This replaces the previous Twixxel pick. It's a video reference, not a reference sheet.
 
-## ThatMob — illustration by C3L3STI4L
+## ThatMob
 
 ![ThatMob fan art by C3L3STI4L](https://cdn.ibispaint.com/movie/695/942/695942636/image695942636.png)
 
@@ -16,8 +16,7 @@
 
 ## More art to explore
 
-- [Twixxel and ThatMob fan designs by nicophrenia](https://www.tumgik.com/tag/Might%20post%20my%20other%20designs%20later..)
 - [Twixxel fan art by multiple artists](https://www.tumgik.com/tag/Twixxel%20Lesgo)
 - [ThatMob fan art by multiple artists](https://www.tumgik.com/tag/thatmob)
 
-**Credits and rights:** The illustrations remain the property of their respective artists. They are embedded from their original hosts and are unofficial fan art, not official designs.
+**Credits and rights:** The video and illustration remain the property of their respective creators. This repository links to the TikTok post and embeds the ThatMob image from its host; neither is claimed as official artwork.
