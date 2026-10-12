@@ -2,6 +2,12 @@
 
 > Reconstructed from available continuity notes; exact sequence and original dialogue are not available.
 
+**Character reference:** [Kasane Teto official character illustrations and model sheets](https://kasaneteto.jp/illust_logo/)
+
+![Official Kasane Teto Synthesizer V character reference sheet](https://kasaneteto.jp/illust_logo/img/teto_sv_3views.jpg)
+
+*This is Teto's official Synthesizer V design, not necessarily the older UTAU design used in every scene.*
+
 Teto joined the story and brought a different kind of energy into the jungle. Her chimera identity became part of the jokes: Teto is an UTAU character and a chimera, not a German character. When she got mad, her twin drills could become part of the gag.
 
 The crossover brought in other Vocaloid and UTAU characters. Miku, Len, and Teto could turn an ordinary moment into a music-driven argument, performance, or absurd interaction. “World is Mine” and “Kasane Territory” were among the musical references.
