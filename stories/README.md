@@ -6,7 +6,7 @@ This archive collects the stories and recurring story threads that can currently
 
 ## Visual references
 
-These are **real reference images of the actual objects/characters**, not fake illustrations of Bobo Reborn scenes. The Del Sol photo shows the correct car model, the shop-vac photo shows a real wet/dry vacuum, and Teto's reference is from her official website. They are references only; they are not claimed to be Bobo's exact rusty car, Popper, or a screenshot from our story.
+These are real reference images, not invented illustrations. They are references for the real-world objects and character design; they are not claimed to be photographs of the exact Bobo Reborn scenes.
 
 ### The 1995 Honda Civic Del Sol
 
@@ -14,11 +14,11 @@ These are **real reference images of the actual objects/characters**, not fake i
 
 Source: [CLASSIC.COM — 1995 Honda Civic Del Sol Si](https://www.classic.com/veh/1995-honda-civic-del-sol-si-jhmeh616xss004602-pdYaON4/). Bobo's story car is rusty and non-running when found, so this is a model reference, not its exact appearance.
 
-### A real wet/dry shop vacuum (Popper reference)
+### The dusty, battered roadside shop-vac
 
-![Real portable wet dry shop vacuum](https://images.thdstatic.com/productImages/4010775b-e1dc-462d-ba09-fc444a071d95/svn/ridgid-wet-dry-vacuums-wd4070c-76_600.jpg)
+![Old dusty and scuffed Sears Craftsman wet dry shop vacuum](https://image.invaluable.com/housePhotos/ejsauction/75/781475/H8897-L387722625_original.jpg)
 
-Source: [The Home Depot — RIDGID portable wet/dry shop vacuum](https://www.homedepot.com/p/308058433). Popper's exact brand and model have not been established in the story notes.
+Source: [EJS Auction — Sears Craftsman 16-gallon wet/dry vacuum](https://auctions.ejsauction.com/auction-lot/sears-craftsman-16gal-5hp-wet-dry-vac_C804FA0A72). This is much closer to the grimy, dusty, heavily used look described for the later roadside vacuum. Popper's exact make and model have not been established.
 
 ### Kasane Teto
 
