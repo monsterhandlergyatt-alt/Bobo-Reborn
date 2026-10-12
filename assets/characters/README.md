@@ -12,7 +12,7 @@ Additional visual reference: [@keksek7771's Twixxel video on TikTok](https://www
 
 ![ThatMob image supplied by the repository maintainer](https://yt3.ggpht.com/tZUwlKffPkfOC8-aqNkVyCQNAAqCkMQuU2t0qadHpl--rAsncFx8b6u3GBDQghAWtkWIoTTteO6mjQ=s640-c-fcrop64=1,00000000ffffffff-rw-nd-v1)
 
-Image supplied by the repository maintainer. The original artist/source page has not yet been identified.
+**Source:** ThatMob’s own render, shared by the repository maintainer.
 
 ## More art to explore
 

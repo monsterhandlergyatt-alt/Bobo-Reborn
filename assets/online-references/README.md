@@ -12,7 +12,7 @@ Additional reference: [@keksek7771's Twixxel video on TikTok](https://www.tiktok
 
 ![ThatMob image supplied by the repository maintainer](https://yt3.ggpht.com/tZUwlKffPkfOC8-aqNkVyCQNAAqCkMQuU2t0qadHpl--rAsncFx8b6u3GBDQghAWtkWIoTTteO6mjQ=s640-c-fcrop64=1,00000000ffffffff-rw-nd-v1)
 
-Image supplied by the repository maintainer. Original artist/source not yet identified.
+**Source:** ThatMob’s own render, shared by the repository maintainer.
 
 More: [Twixxel fan art](https://www.tumgik.com/tag/Twixxel%20Lesgo) · [ThatMob fan art](https://www.tumgik.com/tag/thatmob)
 
