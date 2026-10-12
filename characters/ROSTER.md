@@ -33,11 +33,18 @@ This roster records confirmed details. Visual references do not automatically es
 - Soft, cute voice.
 - Occasional readable German-inspired “Vit Style”: ze, zat, zis, vit, zey, vere, vat, tink, ting, zen, zere.
 - Keep it natural and understandable; it should not replace every word.
+- Is the main recipient of Teto's recurring surprise deliveries.
 - Visual references: [gallery](../assets/characters/README.md) and [TikTok reference](https://www.tiktok.com/@keksek7771/video/7683602487219211538).
 
 ### ThatMob
 - The render supplied to this repository is ThatMob's own render.
 - Keep unconfirmed personality and backstory details open rather than inventing them as canon.
+- Sometimes receives a surprise from Teto too, though Twixxel is the main target of that running gag.
+
+### Teto
+- UTAU character and chimera; not German.
+- Her twin drills can feature in angry gags.
+- A fan-requested recurring gag has her return with surprises for Twixxel, and sometimes ThatMob.
 
 ### Eisuke
 - A normal human; do not conflate him with Eisuke_Fur or portray him as wearing a fursuit by default.
