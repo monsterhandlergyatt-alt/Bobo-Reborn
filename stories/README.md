@@ -2,18 +2,29 @@
 
 This archive collects the stories and recurring story threads that can currently be reconstructed from the available conversation history.
 
-**Archive honesty:** Some entries are retellings made from remembered plot beats, not verbatim copies of the original chats. Where the complete original scene was not recoverable, the file says so rather than inventing dialogue or pretending to have the exact original. If original text is supplied later, preserve it and replace the reconstruction.
+**Archive honesty:** Some entries are retellings made from remembered plot beats, not verbatim copies of the original chats. Where the complete original scene was not recoverable, the file says so rather than inventing dialogue or pretending to have the exact original.
 
-## Story artwork
+## Visual references
 
-### The Del Sol in the Jungle
-![Illustration of Bobo's rusty Del Sol beneath the jungle canopy](../assets/story-art/del-sol-in-the-jungle.svg)
+These are **real reference images of the actual objects/characters**, not fake illustrations of Bobo Reborn scenes. The Del Sol photo shows the correct car model, the shop-vac photo shows a real wet/dry vacuum, and Teto's reference is from her official website. They are references only; they are not claimed to be Bobo's exact rusty car, Popper, or a screenshot from our story.
 
-### Twixxel and Popper
-![Illustration of the mysterious roadside shop-vac](../assets/story-art/popper-shop-vac.svg)
+### The 1995 Honda Civic Del Sol
 
-### Teto's Jungle Crossover
-![Illustration of Teto, a frog, and a suspicious car in the jungle](../assets/story-art/teto-jungle-crossover.svg)
+![Real 1995 Honda Civic Del Sol Si reference photo](https://images.classic.com/vehicles/eab56a45aeda89d6963c5c93154e2850da3b2484.jpeg?fit=crop&h=676&w=1200)
+
+Source: [CLASSIC.COM — 1995 Honda Civic Del Sol Si](https://www.classic.com/veh/1995-honda-civic-del-sol-si-jhmeh616xss004602-pdYaON4/). Bobo's story car is rusty and non-running when found, so this is a model reference, not its exact appearance.
+
+### A real wet/dry shop vacuum (Popper reference)
+
+![Real portable wet dry shop vacuum](https://images.thdstatic.com/productImages/4010775b-e1dc-462d-ba09-fc444a071d95/svn/ridgid-wet-dry-vacuums-wd4070c-76_600.jpg)
+
+Source: [The Home Depot — RIDGID portable wet/dry shop vacuum](https://www.homedepot.com/p/308058433). Popper's exact brand and model have not been established in the story notes.
+
+### Kasane Teto
+
+![Official Kasane Teto Synthesizer V character reference sheet](https://kasaneteto.jp/illust_logo/img/teto_sv_3views.jpg)
+
+Source: [Kasane Teto official website](https://kasaneteto.jp/illust_logo/). This is the official Synthesizer V outfit reference; use the specific version that matches the scene if the story refers to her older UTAU design.
 
 ## Story index
 
@@ -33,18 +44,5 @@ This archive collects the stories and recurring story threads that can currently
 
 ### Music and emotional moments
 9. [Killing My Love](chapters/010-killing-my-love-and-the-vinyl.md) — Lila finds the vinyl and Bobo's emotional connection to the song.
-10. [The Eurobeat Comeback](chapters/011-the-eurobeat-comeback.md) — The “no more Euro” phase and eurobeat's return.
-
-### Saga and production-history note
-11. [Verity and the Crew](chapters/008-verity-and-the-crew.md) — A preservation note for Verity/Lord Verity and voice-acting discussions; not a recovered full narrative chapter.
-
-## Still to archive
-This is every distinct story thread currently reconstructable from the conversation context available to this archive, not a guarantee that every old chat's exact prose has been recovered. More story scenes may exist in older conversations. Add those as soon as their original text or reliable details are available.
-
-## Chapter format
-- Numbered descriptive filename
-- Full story text or a clearly labeled reconstruction
-- Continuity notes when useful
-- Canon updates only when details are confirmed
-
-A one-off gag does not automatically become permanent canon. See [../CANON.md](../CANON.md).
+10. [The Eurobeat Comeback](chapters/011-the-eurobeat-comeback.md) — The music returns after the “no more Euro” period.
+11. [The Crew and Verity](chapters/008-verity-and-the-crew.md) — Crew continuity and Verity-related scenes.
