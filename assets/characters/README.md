@@ -10,9 +10,9 @@ Additional visual reference: [@keksek7771's Twixxel video on TikTok](https://www
 
 ## ThatMob
 
-![ThatMob fan art by C3L3STI4L](https://cdn.ibispaint.com/movie/695/942/695942636/image695942636.png)
+![ThatMob image supplied by the repository maintainer](https://yt3.ggpht.com/tZUwlKffPkfOC8-aqNkVyCQNAAqCkMQuU2t0qadHpl--rAsncFx8b6u3GBDQghAWtkWIoTTteO6mjQ=s640-c-fcrop64=1,00000000ffffffff-rw-nd-v1)
 
-[View the original artwork on ibisPaint](https://ibispaint.com/art/695942636/)
+Image supplied by the repository maintainer. The original artist/source page has not yet been identified.
 
 ## More art to explore
 
