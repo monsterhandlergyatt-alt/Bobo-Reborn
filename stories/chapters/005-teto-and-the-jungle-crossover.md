@@ -45,3 +45,5 @@ Teto just grinned. Around here, a visit from her could mean a thoughtful little 
 The musical scenes work best when they grow out of the characters' reactions: Teto getting annoyed, someone pushing the joke too far, a song becoming the center of attention, or Teto unexpectedly arriving with another gift. Even with the crossover cast, the jungle remains the grounding point.
 
 **Continuity:** Teto is a chimera and UTAU character; she is not German. Her twin drills can feature in angry gags. Miku, Kagamine Len, “World is Mine,” and “Kasane Territory” are crossover references. Teto's recurring surprise deliveries are mainly for Twixxel and sometimes for ThatMob; the specific item in the reference image is not yet identified.
+
+this is the suprise https://lh3.googleusercontent.com/d/1u9Joho0TBVSGc0jQ2Drgu9q6fFZc0TiX
