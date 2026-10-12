@@ -2,6 +2,12 @@
 
 > Archive retelling reconstructed from remembered story beats; not a verbatim transcript.
 
+**Real-world model reference:** [1995 Honda Civic Del Sol Si photo](https://www.classic.com/veh/1995-honda-civic-del-sol-si-jhmeh616xss004602-pdYaON4/)
+
+![1995 Honda Civic Del Sol reference photo](https://images.classic.com/vehicles/eab56a45aeda89d6963c5c93154e2850da3b2484.jpeg?fit=crop&h=676&w=1200)
+
+*This is a reference for the real car model, not a photo of Bobo's specific rusty Del Sol.*
+
 Bobo woke in the forest with the jungle quiet around him. Between the trees sat a familiar shape beneath layers of rust: his 1995 Honda Civic Del Sol.
 
 The car was abandoned, rusty, and would not start. Bobo stood still, recognizing something he had thought was gone. This was not just a wreck. It belonged to a part of his life he had missed.
