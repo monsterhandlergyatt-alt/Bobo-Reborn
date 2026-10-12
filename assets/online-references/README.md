@@ -1,15 +1,17 @@
-# Fan-Art Reference Gallery
+# Fan-Art Gallery
 
 ## Twixxel_lesgo
 
-![Twixxel_lesgo fan reference sheet by ashey4rtz](https://64.media.tumblr.com/1ee87f7661373b7534e89516375c3253/67c000b837ba6ab8-f3/s540x810/d469f6e0fa69da3813915f1bdfa84c88ac72e2ae.pnj)
+![Twixxel_lesgo fan art by Hakkia](https://cdn.ibispaint.com/movie/508/554/508554520/image508554520.png)
+
+[Original artwork and artist credit](https://ibispaint.com/art/508554520/)
 
 ## ThatMob
 
-![ThatMob fan reference sheet by ashey4rtz](https://64.media.tumblr.com/444f54cd8a9f7904fe930fb8ad4064c8/67c000b837ba6ab8-6e/s540x810/58f971c9d6f5dbedb9a1f973836aa89ea856b3b4.pnj)
+![ThatMob fan art by C3L3STI4L](https://cdn.ibispaint.com/movie/695/942/695942636/image695942636.png)
 
-**Artist:** ashey4rtz — [post listing both reference sheets](https://www.tumgik.com/tag/twixxel%20lesgo%20design).
+[Original artwork and artist credit](https://ibispaint.com/art/695942636/)
 
-Browse more: [Twixxel Lesgo](https://www.tumgik.com/tag/Twixxel%20Lesgo) · [Twixxel designs](https://www.tumgik.com/tag/Twixxel%20design).
+More: [Twixxel fan art](https://www.tumgik.com/tag/Twixxel%20Lesgo) · [ThatMob fan art](https://www.tumgik.com/tag/thatmob)
 
-All artwork is unofficial fan art and remains the artist's property.
+All artwork remains the property of its respective artist.

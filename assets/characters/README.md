@@ -1,17 +1,23 @@
 # Twixxel_lesgo & ThatMob — Fan-Art Gallery
 
-These are the **updated fan character reference sheets** by **ashey4rtz**. The artist posted both together and describes them as redesigned fan references, including stronger Enderman elements in ThatMob's design. These are fan designs, not official character sheets.
+**These are standalone fan-art illustrations, not reference sheets.** I picked individual drawings so the gallery can focus on how the characters look in actual artwork.
 
-## Twixxel_lesgo
+## Twixxel_lesgo — illustration by Hakkia
 
-![Twixxel_lesgo fan reference sheet by ashey4rtz](https://64.media.tumblr.com/1ee87f7661373b7534e89516375c3253/67c000b837ba6ab8-f3/s540x810/d469f6e0fa69da3813915f1bdfa84c88ac72e2ae.pnj)
+![Twixxel_lesgo fan art by Hakkia](https://cdn.ibispaint.com/movie/508/554/508554520/image508554520.png)
 
-## ThatMob
+[View the original artwork on ibisPaint](https://ibispaint.com/art/508554520/)
 
-![ThatMob fan reference sheet by ashey4rtz](https://64.media.tumblr.com/444f54cd8a9f7904fe930fb8ad4064c8/67c000b837ba6ab8-6e/s540x810/58f971c9d6f5dbedb9a1f973836aa89ea856b3b4.pnj)
+## ThatMob — illustration by C3L3STI4L
 
-**Artist/source:** [ashey4rtz's post with both reference sheets](https://www.tumgik.com/tag/twixxel%20lesgo%20design).
+![ThatMob fan art by C3L3STI4L](https://cdn.ibispaint.com/movie/695/942/695942636/image695942636.png)
 
-More options to browse: [Twixxel Lesgo fan art](https://www.tumgik.com/tag/Twixxel%20Lesgo) · [Twixxel character designs](https://www.tumgik.com/tag/Twixxel%20design).
+[View the original artwork on ibisPaint](https://ibispaint.com/art/695942636/)
 
-**Rights:** Unofficial fan art; all rights remain with the artist. Images are embedded from Tumblr's media host, not copied into this repository.
+## More art to explore
+
+- [Twixxel and ThatMob fan designs by nicophrenia](https://www.tumgik.com/tag/Might%20post%20my%20other%20designs%20later..)
+- [Twixxel fan art by multiple artists](https://www.tumgik.com/tag/Twixxel%20Lesgo)
+- [ThatMob fan art by multiple artists](https://www.tumgik.com/tag/thatmob)
+
+**Credits and rights:** The illustrations remain the property of their respective artists. They are embedded from their original hosts and are unofficial fan art, not official designs.
