@@ -4,6 +4,17 @@ This archive collects the stories and recurring story threads that can currently
 
 **Archive honesty:** Some entries are retellings made from remembered plot beats, not verbatim copies of the original chats. Where the complete original scene was not recoverable, the file says so rather than inventing dialogue or pretending to have the exact original. If original text is supplied later, preserve it and replace the reconstruction.
 
+## Story artwork
+
+### The Del Sol in the Jungle
+![Illustration of Bobo's rusty Del Sol beneath the jungle canopy](../assets/story-art/del-sol-in-the-jungle.svg)
+
+### Twixxel and Popper
+![Illustration of the mysterious roadside shop-vac](../assets/story-art/popper-shop-vac.svg)
+
+### Teto's Jungle Crossover
+![Illustration of Teto, a frog, and a suspicious car in the jungle](../assets/story-art/teto-jungle-crossover.svg)
+
 ## Story index
 
 ### Del Sol and car arcs
