@@ -2,7 +2,11 @@
 
 ## Twixxel_lesgo
 
-Preferred visual reference: [watch @keksek7771's Twixxel video on TikTok](https://www.tiktok.com/@keksek7771/video/7683602487219211538).
+![Twixxel_lesgo image shared by the repository maintainer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRqjFwh6ATLH5YEf_qdj968kgfhsOTmoZ669XZezaNlFpxrHT2M8yc2hq&s=10)
+
+Provisional image reference supplied by the repository maintainer. The original artist/source is not yet identified.
+
+Additional reference: [@keksek7771's Twixxel video on TikTok](https://www.tiktok.com/@keksek7771/video/7683602487219211538).
 
 ## ThatMob
 
