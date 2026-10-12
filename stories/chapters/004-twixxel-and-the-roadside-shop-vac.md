@@ -2,6 +2,12 @@
 
 > Reconstructed compilation of the remembered Popper/shop-vac rounds; not a verbatim transcript.
 
+**Real-world object reference:** [Portable wet/dry shop vacuum](https://www.homedepot.com/p/308058433)
+
+![Real portable wet dry shop vacuum](https://images.thdstatic.com/productImages/4010775b-e1dc-462d-ba09-fc444a071d95/svn/ridgid-wet-dry-vacuums-wd4070c-76_600.jpg)
+
+*This shows what a real shop-vac looks like; Popper's exact make and model are not established.*
+
 Twixxel found a shop-vac beside the road and decided that bringing it home was a perfectly reasonable idea. The machine became known as **Popper**.
 
 At first it seemed like a lucky find. Then the warning signs started. The shop-vac made suspicious noises and turned a simple cleaning plan into a looming disaster. Twixxel, rather than developing a sensible safety plan, found the situation exciting. He danced, delighted in the chaos, and acted as if a potentially explosive machine was the best entertainment the jungle had ever provided.
