@@ -2,11 +2,11 @@
 
 > Reconstructed compilation of the remembered Popper/shop-vac rounds; not a verbatim transcript.
 
-**Real-world object reference:** [Portable wet/dry shop vacuum](https://www.homedepot.com/p/308058433)
+**Visual reference for the later dusty vacuum:** [Original auction photo of an old, scuffed Craftsman shop-vac](https://auctions.ejsauction.com/auction-lot/sears-craftsman-16gal-5hp-wet-dry-vac_C804FA0A72)
 
-![Real portable wet dry shop vacuum](https://images.thdstatic.com/productImages/4010775b-e1dc-462d-ba09-fc444a071d95/svn/ridgid-wet-dry-vacuums-wd4070c-76_600.jpg)
+![Old dusty and scuffed Sears Craftsman wet dry shop vacuum](https://image.invaluable.com/housePhotos/ejsauction/75/781475/H8897-L387722625_original.jpg)
 
-*This shows what a real shop-vac looks like; Popper's exact make and model are not established.*
+*This is a real, heavily used and dusty vacuum that matches the general worn-out look in the story. Its make and model are not confirmed to be Popper or the second roadside vacuum.*
 
 Twixxel found a shop-vac beside the road and decided that bringing it home was a perfectly reasonable idea. The machine became known as **Popper**.
 
