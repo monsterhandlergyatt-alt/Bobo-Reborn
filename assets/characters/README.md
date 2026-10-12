@@ -1,33 +1,21 @@
-# Character Portrait Gallery
+# Real Fan-Art Gallery
 
-Original stylized SVG portraits for the known Bobo Reborn cast. Some appearances are not fully established, so these are flexible visual interpretations.
+The old placeholder SVG portraits have been removed. This gallery now shows real fan art hosted by the artists' original platforms.
 
-## BOBO
-![BOBO portrait](bobo.svg)
+## Twixxel_lesgo
 
-## KODA
-![KODA portrait](koda.svg)
+![Twixxel_lesgo fan art by Hakkia on ibisPaint](https://cdn.ibispaint.com/movie/508/554/508554520/image508554520.png)
 
-## LILA
-![LILA portrait](lila.svg)
+Artwork: **Hakkia** — [view the original post on ibisPaint](https://ibispaint.com/art/508554520/).
 
-## AARON
-![AARON portrait](aaron.svg)
+## ThatMob
 
-## MOCHI
-![MOCHI portrait](mochi.svg)
+![ThatMob fan art by justCamelia on ibisPaint](https://cdn.ibispaint.com/movie/853/156/853156362/image853156362.png)
 
-## TWIXXEL_LES GO
-![TWIXXEL_LES GO portrait](twixxel-lesgo.svg)
+Artwork: **justCamelia (@camelianadine_i)** — [view the original post on ibisPaint](https://ibispaint.com/art/853156362/).
 
-## THATMOB
-![THATMOB portrait](thatmob.svg)
+## Twixxel + ThatMob together
 
-## EISUKE
-![EISUKE portrait](eisuke.svg)
+[Fan art featuring both creators on Tenor, posted by JSTKiraaxx](https://tenor.com/view/thatmob-and-twixxel-lesgo-twixxel-thatmob-minecraft-gif-4833719282651752753).
 
-## SLIPPERYHC
-![SLIPPERYHC portrait](slipperyhc.svg)
-
-## LORD VERITY
-![LORD VERITY portrait](lord-verity.svg)
+**Credits and permissions:** These are artists' works, not official character sheets. The images are embedded from their original hosting platform rather than copied into this repository. All rights remain with their artists; please follow their terms before reusing or redistributing the art.
