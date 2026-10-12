@@ -1,16 +1,16 @@
 # World Guide
 
-## The jungle
-The jungle is the main home of Bobo Reborn. Keep it feeling lived-in and familiar rather than constantly introducing unrelated regions.
+## Jungle
+The jungle is the heart of Bobo Reborn. Keep it familiar and lived-in rather than constantly introducing unrelated regions.
 
 ## Bobo and Koda's home
-Bobo and Koda live together. Their home is a recurring base for character scenes, plans, arguments, and comedic disasters.
+A recurring base for quiet conversations, plans, arguments, and chaotic comedy.
 
 ## The tree
-The tree is an important destination in the Del Sol rediscovery arc. The car's return to familiar places should feel emotional and earned.
+An important stop in the Del Sol rediscovery arc. Bringing the car back to familiar places should feel meaningful.
 
-## The garage
-The garage becomes the center of Bobo's Del Sol restoration. The project involves sourcing expensive parts, troubleshooting a non-running car, and gradual progress. Restoration mishaps are welcome, but preserve continuity about what has already been repaired.
+## Garage
+The center of the Del Sol restoration. Repairs involve diagnosis, expensive parts, and gradual progress; don't skip from broken to perfect.
 
 ## Currency
-Rocks are used as money in the saga.
+Rocks are used as money.
